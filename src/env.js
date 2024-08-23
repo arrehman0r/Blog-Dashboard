@@ -1,1 +1,1 @@
-export const Blog_PUBLIC_DEV_URL = "http://192.168.100.26:4000/"
+export const Blog_PUBLIC_DEV_URL = "http://203.161.43.125:4000/"
